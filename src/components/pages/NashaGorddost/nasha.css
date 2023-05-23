@@ -1,0 +1,75 @@
+.nWrappers{
+    width: 100%;
+    height: 100%;
+    background-color: white
+}
+.nConteinerBlockAboutText{
+    width: 1440px;
+    height: 100%;
+    
+    
+    margin: 0 auto;
+}
+.nGordost{
+    width: 1440px;
+    height: 200px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.nGordost h1{
+    font-size: 40px;
+    box-shadow: 5px 5px 20px;
+    border-radius: 10px;
+}
+.nGordost p{
+    font-size: 25px;
+    color: rgb(88, 88, 237);
+}
+.nBlockAboutFotos{
+    width: 1440px;
+    height: 100%;
+
+    text-align: center;
+}
+.nBlockAboutFotos img{
+    width: 1200px;
+    margin-bottom: 30px;
+   
+}
+.nBlockTextComponent{
+    width: 1440px;
+    height: 600px;
+    padding-left: 60px;
+    
+}
+.pride>img {
+    width: 350px;
+    margin: 1%;
+    padding: 1%;
+    box-shadow: 5px 5px 10px;
+}
+h4, h1 {
+    width: 90%;
+    padding: 0 5%;
+    font-size: 30px;
+    font-family: 'Nunito';
+    color:midnightblue;
+}
+h1 {
+    font-family: 'Roboto Slab';
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    text-shadow: 5px 5px 10px;
+    color: black;
+}
+i {
+    display: flex;
+    justify-content: end;
+    padding-right: 10%;
+    font-size: 20px;
+    font-family: 'Nunito';
+}

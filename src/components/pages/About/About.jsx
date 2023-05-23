@@ -1,5 +1,19 @@
 import React from 'react'
 import "./about.css"
+import abImg1 from "./aboutImages/Снимок экрана 2023-05-21 143906.png"
+import abImg2 from "./aboutImages/Снимок экрана 2023-05-21 143945.png"
+import abImg3 from "./aboutImages/Снимок экрана 2023-05-21 144027.png"
+import abImg4 from "./aboutImages/Снимок экрана 2023-05-21 144055.png"
+import abImages1 from "./aboutImages/abBlockFoto1.png"
+import abImages2 from "./aboutImages/blockforo3.png"
+import abImages3 from "./aboutImages/blockfoto4.png"
+import abImages4 from "./aboutImages/fotoBlock2.png"
+import abImages5 from "./aboutImages/f1.png"
+import abImages6 from "./aboutImages/f2.png"
+import abIcon1 from "./aboutImages/abf1.png"
+import abIcon2 from "./aboutImages/abf2.png"
+
+
 
 const About = () => {
   return (
@@ -11,10 +25,10 @@ const About = () => {
               <h1>Краткая история создания и развития Республиканского спортивного колледжа им. Шералы Сыдыкова РСК:</h1>
             </div>
             <div className='abBlockRight'>
-              <img src="http://127.0.0.1:5500/1-home/images/2.jpg" alt="" />
-              <img src="http://127.0.0.1:5500/1-home/images/1.jpg" alt="" />
-              <img src="http://127.0.0.1:5500/images/23.jpg" alt="" />
-              <img src="http://127.0.0.1:5500/images/68.jpg" alt="" />
+              <img src={abImg1} alt="" />
+              <img src={abImg2} alt="" />
+              <img src={abImg3} alt="" />
+              <img src={abImg4} alt="" />
             </div>
           </div>
           <div className='aboutBlockSecond'>
@@ -24,10 +38,10 @@ const About = () => {
 В 1971 году в г. Фрунзе организована Республиканская общеобразовательная школа спортивного профиля им. Н.К.Крупской, а в 1989 году приказом Государственного комитета СССР по физической культуре и спорту была преобразована во Фрунзенское училище олимпийского резерва с организацией 1 и 3 курсов, в 2001 году переименовано в Республиканское училище олимпийского резерва им.Ш.Сыдыкова.В 2019 году переименовано в Республиканский спортивный колледж им Ш.Сыдыкова.</h2>
             </div>
             <div className='abBlockRightsecond'>
-              <img src="http://127.0.0.1:5500/images/43.jpg" alt="" />
-              <img src="http://127.0.0.1:5500/images/39.jpg" alt="" />
-              <img src="http://127.0.0.1:5500/5-news/images/1.jpg" alt="" />
-              <img src="http://127.0.0.1:5500/5-news/images/2.jpg" alt="" />
+              <img src={abImages1} alt="" />
+              <img src={abImages2} alt="" />
+              <img src={abImages3} alt="" />
+              <img src={abImages4} alt="" />
             </div>
           </div>
           <div className='aboutBlockThree'>
@@ -37,8 +51,8 @@ const About = () => {
 В колледже учатся, проживают и занимаются 395 одаренных юношей и девушек со всех регионов республики.</h2>
             </div>
             <div className='abBlockRightsecond'>
-              <img src="http://127.0.0.1:5500/images/43.jpg" alt="" />
-              <img src="http://127.0.0.1:5500/images/39.jpg" alt="" />
+              <img src={abImages5} alt="" />
+              <img src={abImages6} alt="" />
               <h2>РСК располагает учебным корпусом, общежитием, спортивным комплексом, медсанчастью, сауной, столовой с четырехразовым питанием.</h2>
              
             </div>
@@ -49,11 +63,11 @@ const About = () => {
             </div>
             <h2>Ташматов Айбек Айтбекович</h2>
             <div className='miniCard'>
-              <img src="http://127.0.0.1:5500/1-home/images/phon.webp" alt="" />
+              <img src={abIcon1} alt="" />
               <h3>Рабочий телефон: 0312-334187</h3>
             </div>
             <div className='miniCard'>
-              <img src="http://127.0.0.1:5500/1-home/images/gmail.webp" alt="" />
+              <img src={abIcon2} alt="" />
               <h3>Электронная почта: ruor33@mail.ru</h3>
             </div>
           </div>
@@ -63,11 +77,11 @@ const About = () => {
             </div>
             <h2>Кайырбек к Нургул</h2>
             <div className='miniCard'>
-              <img src="http://127.0.0.1:5500/1-home/images/phon.webp" alt="" />
+              <img src={abIcon1} alt="" />
               <h3>Рабочий телефон: 0312-334676</h3>
             </div>
             <div className='miniCard'>
-              <img src="http://127.0.0.1:5500/1-home/images/gmail.webp" alt="" />
+              <img src={abIcon2} alt="" />
               <h3>Электронная почта: ruor.kolbaeva33@mail.ru</h3>
             </div>
           </div>
@@ -77,11 +91,11 @@ const About = () => {
             </div>
             <h2>Кожомат уулу Тилек</h2>
             <div className='miniCard'>
-              <img src="http://127.0.0.1:5500/1-home/images/phon.webp" alt="" />
+              <img src={abIcon1} alt="" />
               <h3>Рабочий телефон: 0312-334187</h3>
             </div>
             <div className='miniCard'>
-              <img src="http://127.0.0.1:5500/1-home/images/gmail.webp" alt="" />
+              <img src={abIcon2} alt="" />
               <h3>Электронная почта: tilekkojomat@mail.ru</h3>
             </div>
           </div>
@@ -91,15 +105,15 @@ const About = () => {
             </div>
             <h2>Ибраимов Данияр Анарбекович</h2>
             <div className='miniCard'>
-              <img src="http://127.0.0.1:5500/1-home/images/phon.webp" alt="" />
+              <img src={abIcon1} alt="" />
               <h3>Рабочий телефон: 0312-334038</h3>
             </div>
             <div className='miniCard'>
-              <img src="http://127.0.0.1:5500/1-home/images/phon.webp" alt="" />
+              <img src={abIcon1} alt="" />
               <h3>Мобильный телефон: 0508 770 333</h3>
             </div>
             <div className='miniCard'>
-              <img src="http://127.0.0.1:5500/1-home/images/gmail.webp" alt="" />
+              <img src={abIcon2} alt="" />
               <h3>Электронная почта: ruor33@mail.ru</h3>
             </div>
           </div>

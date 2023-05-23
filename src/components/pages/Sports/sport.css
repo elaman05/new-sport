@@ -1,0 +1,58 @@
+.spWrapper{
+    width: 100%;
+    height: 100%;
+    
+}
+.spBlockContent{
+    width: 1440px;
+    height: 900px;
+    margin: 0 auto;
+    background-color:white;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.spCard{
+    width: 900px;
+    height: 250px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.spCard img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow: 5px 5px 20px;
+
+}
+.buttonTag{
+    width: 450px;
+    height: 100px;
+    background-color:darkslategrey;
+    border: 1px solid  green;
+    border-radius: 35px;
+    box-shadow: 5px 5px 15px yellow;
+}
+.buttonTag:hover{
+    background-color: yellow;
+    cursor: pointer;
+    box-shadow: 5px 5px 15px blueviolet;
+}
+.spH3{
+    font-size: 30px;
+    font-family: serif;
+    color: white;
+
+   
+}
+.blocksp{
+    width: 450px;
+    height: 800px;
+    background-color: aqua;
+}
