@@ -1,0 +1,48 @@
+
+.contPop{
+      width: 100%;
+    height: 100%;
+    background-color: green;
+}
+
+
+
+.contBlok{
+ 
+    width: 1440px;
+    margin: 0 auto;
+    height: 500px;
+ 
+
+}
+
+
+
+.cont0001{
+    display: flex;
+width: 1150px;
+margin-left: 170px;
+}
+
+.cont0002{
+   margin-left: 220px;
+    width: 1050px;
+}
+
+
+.confooter{
+   text-align: center;
+}
+
+
+
+.contddcc11{
+ position: absolute;
+top: 362px;
+ font-size: 20px;
+  display: flex;
+  gap: 170px;
+  margin-left: 300px;
+  
+  color: blue;
+}

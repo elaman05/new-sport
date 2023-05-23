@@ -1,0 +1,247 @@
+.wraper{
+    
+    width: 100%;
+    height: 100%;
+    background-color: green;
+}
+.blockHome{
+    width: 1440px;
+    margin: 0 auto;
+    height: 500px;
+ 
+}
+
+.blockHome2{
+  width: 1440px;
+    margin: 0 auto;
+    height: 500px;
+}
+
+
+.hmfoto{
+  width: 1440px;
+}
+
+.hmfoto002{
+  width: 1200px;
+margin-left: 70px;
+}
+
+.hmfoto003{
+  width: 1200px;
+  display:flex;
+  margin-left: 60px;
+
+}
+
+.hmfoto004{
+  display:flex ;
+  width: 1000px;
+  margin-left: 100px;
+}
+
+.hm1h1{
+  font-size: 1.5em;
+  color: rgb(9, 9, 142);
+  margin-left: 60px;
+}
+
+.hmfoto005{
+  width: 1300px;
+  display: flex;
+  margin-left: 30px;
+}
+
+.hm2h2{
+   font-size: 1.5em;
+  color: rgb(9, 9, 142);
+  margin-left: 35px;
+}
+
+
+.hmp1{
+  margin-left: 35px;
+  font-size: 21px;
+      display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+   
+}
+
+
+.hmfoto006{
+  display: flex;
+  width: 890px;
+  margin-left: 45px;
+
+}
+
+.hmp2{
+  display: flex;
+  margin-left: 35px;
+  font-size: 21px;
+      display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+   
+}
+
+
+.hmfoto007{
+  display: flex;
+  width: 1300px;
+  margin-left:35px ;
+}
+
+
+.hmyout{
+  display: flex;
+  margin-left: 55px;
+}
+.hmhh1{
+ display: flex;
+  margin-left: 50px;
+}
+
+.hmpp4{
+  display:flex ;
+  font-size: 20px;
+    margin-left: 50px;
+}
+
+.hmfoto008{
+   display: flex;
+  margin-left: 65px;
+  width: 900px;
+}
+
+.hmfoto009{
+   display: flex;
+  width: 1200px;
+  margin-left: 40px;
+}
+
+
+.hmfoto0010{
+   display: flex;
+  width: 900px;
+  margin-left: 30px;
+}
+
+
+
+.hmfoto0011{
+   display: flex;
+  width: 1200px;
+  margin-left: 30px;
+}
+
+.hmfoto0012{
+   display: flex;
+  width: 900px;
+  margin-left: 45px;
+}
+.hmfoto0013{
+   display: flex;
+  width: 1200px;
+  margin-left: 45px;
+}
+
+.hmfoto0014{
+   display: flex;
+    width: 950px;
+  margin-left: 45px;
+}
+
+.hmfoto0015{
+   display: flex;
+    width: 1200px;
+  margin-left: 45px;
+}
+
+
+.hmm002{
+  display: flex;
+  margin-left: 49px;
+}
+
+
+
+.hmfoto0016{
+   display: flex;
+    width: 1200px;
+  margin-left: 45px;
+}
+
+.hmppp002{
+   display: flex;
+  font-size: 20px;
+  margin-left: 40px;
+}
+
+
+.hmfoto0017{
+   display: flex;
+  width: 1000px;
+  margin-left: 30px;
+}
+.hmfoto0018{
+  width: 1200px;
+ display: flex;
+ margin-left: 40px;
+}
+.hmfoto0019{
+  width: 1200px;
+ display: flex;
+ margin-left: 40px;
+}
+
+.hmfoto0020{
+  display: flex;
+  width: 900px;
+  margin-left: 75px;
+}
+
+.hmfoto0021{
+    display: flex;
+  width: 1200px;
+margin-left: 120px;
+}
+
+.hmfoto0022{
+    display: flex;
+  width: 1200px;
+margin-left: 120px;
+}
+
+.hmfoto0023{
+    display: flex;
+width: 1400px;
+}
+
+.hmfoto0024{
+    display: flex;
+width: 1400px;
+}
+
+.hmfoto0025{
+    display: flex;
+width: 1150px;
+margin-left: 170px;
+}
+
+ .hmfooter{
+ text-align: center;
+} 
+
+
+.hmss0{
+ position: absolute;
+ top: 14960px;
+ font-size: 20px;
+  display: flex;
+  gap: 170px;
+  margin-left: 300px;
+  color: blue;
+  
+}
